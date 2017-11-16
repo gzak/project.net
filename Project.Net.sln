@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{D0AB09BB-89A0-4594-ADEA-3F9E8AAFBF2D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DDC30619-0E92-4EE9-8FF4-32E658FE48C3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project.Net", "src\Project.Net\Project.Net.csproj", "{B896A297-AB5A-4F20-A694-B69CFBD73043}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harness", "src\Harness\Harness.csproj", "{6E779765-8DF4-45FE-BF40-36C8C159717F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B896A297-AB5A-4F20-A694-B69CFBD73043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B896A297-AB5A-4F20-A694-B69CFBD73043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B896A297-AB5A-4F20-A694-B69CFBD73043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B896A297-AB5A-4F20-A694-B69CFBD73043}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E779765-8DF4-45FE-BF40-36C8C159717F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E779765-8DF4-45FE-BF40-36C8C159717F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E779765-8DF4-45FE-BF40-36C8C159717F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E779765-8DF4-45FE-BF40-36C8C159717F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B896A297-AB5A-4F20-A694-B69CFBD73043} = {D0AB09BB-89A0-4594-ADEA-3F9E8AAFBF2D}
+		{6E779765-8DF4-45FE-BF40-36C8C159717F} = {D0AB09BB-89A0-4594-ADEA-3F9E8AAFBF2D}
+	EndGlobalSection
+EndGlobal
